@@ -9,3 +9,39 @@ contract HelloWorld{
         return _name;
     }
 }
+contract HelloWorld{
+    string _name;
+    function setName(string name) public{
+        _name = name;
+    }
+    function getName() constant public returns(string){
+        return _name;
+    }
+}
+contract HelloWorld{
+    string _name;
+    function setName(string name) public{
+        _name = name;
+    }
+    function getName() constant public returns(string){
+        return _name;
+    }
+}
+contract HelloWorld{
+    string _name;
+    function setName(string name) public{
+        _name = name;
+    }
+    function getName() constant public returns(string){
+        return _name;
+    }
+}
+contract HelloWorld{
+    string _name;
+    function setName(string name) public{
+        _name = name;
+    }
+    function getName() constant public returns(string){
+        return _name;
+    }
+}
